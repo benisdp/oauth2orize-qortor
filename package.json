@@ -1,7 +1,10 @@
 {
-  "name": "oauth2orize",
+  "name": "@qortor/oauth2orize",
   "version": "1.11.1",
   "description": "OAuth 2.0 authorization server toolkit for Node.js.",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "oauth",
     "oauth2",
@@ -14,16 +17,10 @@
     "middleware"
   ],
   "author": {
-    "name": "Jared Hanson",
+    "name": "Beni",
     "email": "jaredhanson@gmail.com",
-    "url": "https://www.jaredhanson.me/"
+    "url": ""
   },
-  "contributors": [
-    {
-      "name": "Samuel Judson",
-      "url": "https://www.sjudson.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/jaredhanson/oauth2orize.git"
